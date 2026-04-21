@@ -17,4 +17,4 @@ Backend-focused software engineering student at the University of Duisburg-Essen
 
 ## Contact
 - Email: imp.jamal@yahoo.com
-- LinkedIn: linkedin.com/in/[your-profile]
+- LinkedIn: linkedin.com/in/mohamedabdelbar
